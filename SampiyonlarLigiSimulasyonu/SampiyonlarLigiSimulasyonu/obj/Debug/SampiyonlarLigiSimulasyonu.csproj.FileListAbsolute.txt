@@ -1,0 +1,11 @@
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\bin\Debug\SampiyonlarLigiSimulasyonu.exe.config
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\bin\Debug\SampiyonlarLigiSimulasyonu.exe
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\bin\Debug\SampiyonlarLigiSimulasyonu.pdb
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.csprojAssemblyReference.cache
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.Form1.resources
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.Properties.Resources.resources
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.csproj.GenerateResource.cache
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.exe
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.pdb
+C:\Users\Pc-Yahya\source\repos\SampiyonlarLigiSimulasyonu\SampiyonlarLigiSimulasyonu\obj\Debug\SampiyonlarLigiSimulasyonu.Detay.resources
